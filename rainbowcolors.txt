@@ -1,6 +1,7 @@
 First Color: RED
 Second Color: ORANGE
 Third Color: YELLOW
+Fourth Color: GREEN
 
 Learning Git with the book -> Learning Git (Anna Skoulikari)
 
