@@ -3,7 +3,8 @@ Second Color: ORANGE
 Third Color: YELLOW
 Fourth Color: GREEN
 Fifth Color: Blue
-Sixth Color: Violet
+Sixth Color: Indigo
+Seventh Color: Violet
 
 Learning Git with the book -> Learning Git (Anna Skoulikari)
 
