@@ -5,6 +5,7 @@ Fourth Color: GREEN
 Fifth Color: Blue
 Sixth Color: Indigo
 Seventh Color: Violet
+These are the color of the rainbow
 
 Learning Git with the book -> Learning Git (Anna Skoulikari)
 
